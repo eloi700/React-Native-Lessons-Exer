@@ -1,0 +1,19 @@
+**  React Native Getting Started ******************************************
+    Definition: React Native is a frameword for building native apps using JavaScript. Apps that built in React Native are Facebook, Instagram, Pinterest, Skype, Uber Eats etc.
+
+**  DIFFERENCE OF REACT (REACTJS) VS REACT NATIVE
+    *   React is an open-source JS library for building the UIs for web applications; besides, React Native is used to build rich mobile UI  from declarative components using only JavaScript.
+
+    *   React and React Native are famous technologies in the APP DEVELOPMENT INDUSTRY.
+
+    *   React is also known as ReactJs. ReactJS is a JavaScript library, supporting both front-end web and being run on a server, for building user interfaces and web applications. It follows the concept of reusable components.
+
+    *   React Native is a mobile framework that makes use of the JavaScript engine available on the host, allowing you to build mobile applications for different platforms (iOS, Android, and Windows Mobile) in JavaScript that allows you to use ReactJS to build reusable components and communicate with native components
+
+    *   Both follow the JSX syntax extension of JavaScript. Which compiles to React.createElement calls under the hood.  Both are open-source by Facebook.
+
+    *   React is UI library for the view of your web app, using javascript and JSX, React native is an extra library on the top of React, to make a native app for iOS and Android devices.
+
+
+
+
